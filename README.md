@@ -2,9 +2,6 @@
 
 <h1 align="center">Simple Social Media</h1>
 
-The [project demo](https://social.w3x.live) is hosted for FREE 💝 on [Wexron Hosting](https://wexronhosting.com).
-
-<a href="https://wexronhosting.com"><img src="https://wexronhosting.com/_nuxt/wex.76a224d8.svg" /></a>
 
 ## Table of Contents 
 - [Introduction](#introduction)
@@ -125,6 +122,3 @@ php artisan test
 
 - [@atikhasan](https://github.com/atik.hasan2090)
 
-## License
-
-[MIT](LICENSE) © Albin Varghese
