@@ -123,7 +123,7 @@ php artisan test
 ```
 ## Credits
 
-- [@albinvar](https://github.com/albinvar)
+- [@atikhasan](https://github.com/atik.hasan2090)
 
 ## License
 
